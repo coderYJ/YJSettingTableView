@@ -3,15 +3,12 @@
 使用方式将YJSettingTableViewDemo中的YJSettingTableView导入工程中即可
 新建tableViewController 继承与YJSettingTableViewController
 在自己的业务逻辑类里面只需要关注模型即可
-<<<<<<< HEAD
-=======
 ```objc
 // 1. 导入头文件
 #import "YJSettingTableViewController.h"
 // 继承 YJSettingTableViewController
 @interface YJMainTableViewController : YJSettingTableViewController
 @end
->>>>>>> 2a6b75fd2cb845c05ef004bc7a35a442774c174c
 
 // 2.封装模型
 - (void)viewDidLoad {
