@@ -78,6 +78,6 @@
 }
 ```
 ## 示例效果
-![](../1.gif)
-微信公众号coderYJ [微博coderYJ](http://weibo.com/u/5348162268) [简书coderYJ](http://www.jianshu.com/users/ce8eba0dbfb6/latest_articles)
+![coderYJ](1.gif)<br/>
+微信公众号coderYJ [微博coderYJ](http://weibo.com/u/5348162268) [简书coderYJ](http://www.jianshu.com/users/ce8eba0dbfb6/latest_articles)<br />
 持续更新使用的干货
