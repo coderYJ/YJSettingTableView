@@ -17,6 +17,6 @@ Pod::Spec.new do |s|
     s.author             = { "simplyou" => "simplyou@163.com" }
     s.social_media_url   = "http://weibo.com/u/5348162268"
     s.source       = { :git => "https://github.com/wenyanjun/YJSettingTableView.git", :tag => s.version }
-    s.source_files  = "YJSettingTableView/*.{h.m}"
+    s.source_files  = "YJSettingTableView"
     s.requires_arc = true
 end
