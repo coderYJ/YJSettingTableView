@@ -1,2 +1,7 @@
 # YJSettingTableView
-初始化
+使用方式将YJSettingTableViewDemo中的YJSettingTableView导入工程中即可
+
+微信公众号coderYJ
+微博coderYJ 
+简书coderYJ
+持续更新使用的干货
