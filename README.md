@@ -1,5 +1,7 @@
 # YJSettingTableView
 使用方式将YJSettingTableViewDemo中的YJSettingTableView导入工程中即可
+新建tableViewController 继承与YJSettingTableViewController
+在自己的业务逻辑类里面只需要关注模型即可
 
 微信公众号coderYJ
 微博coderYJ 
