@@ -1,4 +1,21 @@
 # YJSettingTableView
+
+##pod 'YJSettingTableView' v1.0.0
+```
+$ gem install cocoapods
+``` 
+CocoaPods 0.39.0+ is required to build YJSettingTableView 1.0.0+.
+#Podfile</br>
+To integrate YJSettingTableView into your Xcode project using CocoaPods, specify it in your `Podfile`:
+```
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '7.0'
+
+target 'TargetName' do
+pod 'YJSettingTableView'
+end
+```
+
 ### 使用说明
 使用方式将YJSettingTableView导入工程中即可
 新建tableViewController 继承与YJSettingTableViewController
