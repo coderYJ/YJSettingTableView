@@ -40,7 +40,7 @@
 @property (nonatomic, copy) void(^operationBlock)(NSIndexPath *indexPath);
 
 /**
- *  快速创建行模型
+ *  快速创建一个有图标,标题,子标题的行模型
  *
  *  @param icon     图标
  *  @param title    标题
@@ -50,7 +50,7 @@
  */
 + (instancetype)itemWithIcon:(UIImage *)icon title:(NSString *)title subTitle:(NSString *)subTitle;
 /**
- *  快速创建行模型
+ *  快速创建一个有图标,标题的行模型
  *
  *  @param icon  图标
  *  @param title 标题
@@ -59,16 +59,16 @@
  */
 + (instancetype)itemWithIcon:(UIImage *)icon title:(NSString *)title;
 /**
- *  快速创建行模型
+ *  快速创建一个有标题,子标题的行模型
  *
  *  @param title    标题
  *  @param subTitle 子标题
  *
- *  @return 一个创建好的模型,有图标,标题,子标题
+ *  @return 一个创建好的模型,标题,子标题
  */
 + (instancetype)itemWithTitle:(NSString *)title subTitle:(NSString *)subTitle;
 /**
- *  快速创建行模型
+ *  快速创建一个有标题的行模型
  *
  *  @param title 标题
  *

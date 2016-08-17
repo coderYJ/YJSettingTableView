@@ -39,6 +39,8 @@
     self.detailTextLabel.text = item.subTitle;
     self.detailTextLabel.font = item.subTitleFont;
     
+    self.imageView.image = item.icon;
+    
     // 2.设置右侧视图
     [self setupRightView];
 }

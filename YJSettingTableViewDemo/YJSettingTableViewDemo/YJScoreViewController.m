@@ -16,6 +16,14 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    
+    // 第0组
+    [self setupGroup0];
+}
+/**
+ *  第0组
+ */
+- (void)setupGroup0{
     YJSettingItem *item0 = [YJSettingSwitchItem itemWithTitle:@"双色球" subTitle:@"每天开奖"];
     
     YJSettingItem *item1 = [YJSettingSwitchItem itemWithTitle:@"双色球" subTitle:@"每天开奖"];

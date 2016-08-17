@@ -29,19 +29,22 @@
 }
 /// 第0组
 - (void)setupGroup0{
+    
     // 创建基本模型
-    YJSettingItem *item0 = [YJSettingItem itemWithTitle:@"第0组第0行"];
+    YJSettingItem *item0 = [YJSettingItem itemWithIcon:[UIImage imageNamed:@"handShake"] title:@"第0组第0行"];
     // 设置字体
     item0.titleFont = [UIFont systemFontOfSize:20];
     
-    YJSettingItem *item1 = [YJSettingItem itemWithTitle:@"第0组第1行"];
+    
+    YJSettingItem *item1 = [YJSettingItem itemWithIcon:[UIImage imageNamed:@"more_historyorder"] title:@"第0组第1行"];
     item1.subTitle = @"我是子标题1";
     item1.subTitleFont = [UIFont systemFontOfSize:15];
     
-    YJSettingItem *item2 = [YJSettingItem itemWithTitle:@"第0组第2行"];
-    item2.subTitle = @"我是子标题2";
+    // 创建一个带图标, 标题 子标题的cell
+    YJSettingItem *item2 = [YJSettingItem itemWithIcon:[UIImage imageNamed:@"more_homeshake"] title:@"第0组第1行" subTitle:@"我是子标题2"];
     item2.subTitleFont = [UIFont systemFontOfSize:17];
    
+    
     YJSettingItem *item3 = [YJSettingItem itemWithTitle:@"第0组第3行"];
     item3.subTitle = @"我是子标题2";
     item3.subTitleFont = [UIFont systemFontOfSize:20];

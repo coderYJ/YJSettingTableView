@@ -11,13 +11,13 @@
 		07001A4A1D5D9E2200DAC74C /* MBProgressHUD.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 07001A461D5D9E2200DAC74C /* MBProgressHUD.bundle */; };
 		07001A4B1D5D9E2200DAC74C /* MBProgressHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = 07001A481D5D9E2200DAC74C /* MBProgressHUD.m */; };
 		076537A91D5CBBFE00201A44 /* YJMainTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 076537A81D5CBBFE00201A44 /* YJMainTableViewController.m */; };
-		076AECC01D5DD9F600A6114F /* YJSettingArrowItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 076AECB31D5DD9F600A6114F /* YJSettingArrowItem.m */; };
-		076AECC11D5DD9F600A6114F /* YJSettingGroup.m in Sources */ = {isa = PBXBuildFile; fileRef = 076AECB51D5DD9F600A6114F /* YJSettingGroup.m */; };
-		076AECC21D5DD9F600A6114F /* YJSettingItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 076AECB71D5DD9F600A6114F /* YJSettingItem.m */; };
-		076AECC31D5DD9F600A6114F /* YJSettingSwitchItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 076AECB91D5DD9F600A6114F /* YJSettingSwitchItem.m */; };
-		076AECC41D5DD9F600A6114F /* YJSettingTableView.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 076AECBA1D5DD9F600A6114F /* YJSettingTableView.bundle */; };
-		076AECC51D5DD9F600A6114F /* YJSettingTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 076AECBD1D5DD9F600A6114F /* YJSettingTableViewCell.m */; };
-		076AECC61D5DD9F600A6114F /* YJSettingTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 076AECBF1D5DD9F600A6114F /* YJSettingTableViewController.m */; };
+		078579D01D647E7500B12F4C /* YJSettingTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 078579C01D647E7500B12F4C /* YJSettingTableViewController.m */; };
+		078579D11D647E7500B12F4C /* YJSettingArrowItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 078579C31D647E7500B12F4C /* YJSettingArrowItem.m */; };
+		078579D21D647E7500B12F4C /* YJSettingGroup.m in Sources */ = {isa = PBXBuildFile; fileRef = 078579C51D647E7500B12F4C /* YJSettingGroup.m */; };
+		078579D31D647E7500B12F4C /* YJSettingItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 078579C71D647E7500B12F4C /* YJSettingItem.m */; };
+		078579D41D647E7500B12F4C /* YJSettingSwitchItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 078579C91D647E7500B12F4C /* YJSettingSwitchItem.m */; };
+		078579D51D647E7500B12F4C /* YJSettingTableView.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 078579CB1D647E7500B12F4C /* YJSettingTableView.bundle */; };
+		078579D61D647E7500B12F4C /* YJSettingTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 078579CE1D647E7500B12F4C /* YJSettingTableViewCell.m */; };
 		07B111641D5B2272004C414A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 07B111631D5B2272004C414A /* main.m */; };
 		07B111671D5B2272004C414A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 07B111661D5B2272004C414A /* AppDelegate.m */; };
 		07B1116F1D5B2272004C414A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 07B1116E1D5B2272004C414A /* Assets.xcassets */; };
@@ -33,20 +33,20 @@
 		07001A481D5D9E2200DAC74C /* MBProgressHUD.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MBProgressHUD.m; sourceTree = "<group>"; };
 		076537A71D5CBBFE00201A44 /* YJMainTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YJMainTableViewController.h; sourceTree = "<group>"; };
 		076537A81D5CBBFE00201A44 /* YJMainTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YJMainTableViewController.m; sourceTree = "<group>"; };
-		076AECB21D5DD9F600A6114F /* YJSettingArrowItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YJSettingArrowItem.h; sourceTree = "<group>"; };
-		076AECB31D5DD9F600A6114F /* YJSettingArrowItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YJSettingArrowItem.m; sourceTree = "<group>"; };
-		076AECB41D5DD9F600A6114F /* YJSettingGroup.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YJSettingGroup.h; sourceTree = "<group>"; };
-		076AECB51D5DD9F600A6114F /* YJSettingGroup.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YJSettingGroup.m; sourceTree = "<group>"; };
-		076AECB61D5DD9F600A6114F /* YJSettingItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YJSettingItem.h; sourceTree = "<group>"; };
-		076AECB71D5DD9F600A6114F /* YJSettingItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YJSettingItem.m; sourceTree = "<group>"; };
-		076AECB81D5DD9F600A6114F /* YJSettingSwitchItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YJSettingSwitchItem.h; sourceTree = "<group>"; };
-		076AECB91D5DD9F600A6114F /* YJSettingSwitchItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YJSettingSwitchItem.m; sourceTree = "<group>"; };
-		076AECBA1D5DD9F600A6114F /* YJSettingTableView.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = YJSettingTableView.bundle; sourceTree = "<group>"; };
-		076AECBB1D5DD9F600A6114F /* YJSettingTableView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YJSettingTableView.h; sourceTree = "<group>"; };
-		076AECBC1D5DD9F600A6114F /* YJSettingTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YJSettingTableViewCell.h; sourceTree = "<group>"; };
-		076AECBD1D5DD9F600A6114F /* YJSettingTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YJSettingTableViewCell.m; sourceTree = "<group>"; };
-		076AECBE1D5DD9F600A6114F /* YJSettingTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YJSettingTableViewController.h; sourceTree = "<group>"; };
-		076AECBF1D5DD9F600A6114F /* YJSettingTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YJSettingTableViewController.m; sourceTree = "<group>"; };
+		078579BF1D647E7500B12F4C /* YJSettingTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YJSettingTableViewController.h; sourceTree = "<group>"; };
+		078579C01D647E7500B12F4C /* YJSettingTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YJSettingTableViewController.m; sourceTree = "<group>"; };
+		078579C21D647E7500B12F4C /* YJSettingArrowItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YJSettingArrowItem.h; sourceTree = "<group>"; };
+		078579C31D647E7500B12F4C /* YJSettingArrowItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YJSettingArrowItem.m; sourceTree = "<group>"; };
+		078579C41D647E7500B12F4C /* YJSettingGroup.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YJSettingGroup.h; sourceTree = "<group>"; };
+		078579C51D647E7500B12F4C /* YJSettingGroup.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YJSettingGroup.m; sourceTree = "<group>"; };
+		078579C61D647E7500B12F4C /* YJSettingItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YJSettingItem.h; sourceTree = "<group>"; };
+		078579C71D647E7500B12F4C /* YJSettingItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YJSettingItem.m; sourceTree = "<group>"; };
+		078579C81D647E7500B12F4C /* YJSettingSwitchItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YJSettingSwitchItem.h; sourceTree = "<group>"; };
+		078579C91D647E7500B12F4C /* YJSettingSwitchItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YJSettingSwitchItem.m; sourceTree = "<group>"; };
+		078579CB1D647E7500B12F4C /* YJSettingTableView.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = YJSettingTableView.bundle; sourceTree = "<group>"; };
+		078579CD1D647E7500B12F4C /* YJSettingTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YJSettingTableViewCell.h; sourceTree = "<group>"; };
+		078579CE1D647E7500B12F4C /* YJSettingTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YJSettingTableViewCell.m; sourceTree = "<group>"; };
+		078579CF1D647E7500B12F4C /* YJSettingTableView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YJSettingTableView.h; sourceTree = "<group>"; };
 		07B1115F1D5B2272004C414A /* YJSettingTableViewDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YJSettingTableViewDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		07B111631D5B2272004C414A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		07B111651D5B2272004C414A /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -81,26 +81,58 @@
 			path = MBProgressHUD;
 			sourceTree = "<group>";
 		};
-		076AECB11D5DD9F600A6114F /* YJSettingTableView */ = {
+		078579BD1D647E7500B12F4C /* YJSettingTableView */ = {
 			isa = PBXGroup;
 			children = (
-				076AECB21D5DD9F600A6114F /* YJSettingArrowItem.h */,
-				076AECB31D5DD9F600A6114F /* YJSettingArrowItem.m */,
-				076AECB41D5DD9F600A6114F /* YJSettingGroup.h */,
-				076AECB51D5DD9F600A6114F /* YJSettingGroup.m */,
-				076AECB61D5DD9F600A6114F /* YJSettingItem.h */,
-				076AECB71D5DD9F600A6114F /* YJSettingItem.m */,
-				076AECB81D5DD9F600A6114F /* YJSettingSwitchItem.h */,
-				076AECB91D5DD9F600A6114F /* YJSettingSwitchItem.m */,
-				076AECBA1D5DD9F600A6114F /* YJSettingTableView.bundle */,
-				076AECBB1D5DD9F600A6114F /* YJSettingTableView.h */,
-				076AECBC1D5DD9F600A6114F /* YJSettingTableViewCell.h */,
-				076AECBD1D5DD9F600A6114F /* YJSettingTableViewCell.m */,
-				076AECBE1D5DD9F600A6114F /* YJSettingTableViewController.h */,
-				076AECBF1D5DD9F600A6114F /* YJSettingTableViewController.m */,
+				078579BE1D647E7500B12F4C /* Controller */,
+				078579C11D647E7500B12F4C /* Model */,
+				078579CA1D647E7500B12F4C /* Resoce */,
+				078579CC1D647E7500B12F4C /* View */,
+				078579CF1D647E7500B12F4C /* YJSettingTableView.h */,
 			);
 			name = YJSettingTableView;
 			path = ../../YJSettingTableView;
+			sourceTree = "<group>";
+		};
+		078579BE1D647E7500B12F4C /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				078579BF1D647E7500B12F4C /* YJSettingTableViewController.h */,
+				078579C01D647E7500B12F4C /* YJSettingTableViewController.m */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		078579C11D647E7500B12F4C /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				078579C21D647E7500B12F4C /* YJSettingArrowItem.h */,
+				078579C31D647E7500B12F4C /* YJSettingArrowItem.m */,
+				078579C41D647E7500B12F4C /* YJSettingGroup.h */,
+				078579C51D647E7500B12F4C /* YJSettingGroup.m */,
+				078579C61D647E7500B12F4C /* YJSettingItem.h */,
+				078579C71D647E7500B12F4C /* YJSettingItem.m */,
+				078579C81D647E7500B12F4C /* YJSettingSwitchItem.h */,
+				078579C91D647E7500B12F4C /* YJSettingSwitchItem.m */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		078579CA1D647E7500B12F4C /* Resoce */ = {
+			isa = PBXGroup;
+			children = (
+				078579CB1D647E7500B12F4C /* YJSettingTableView.bundle */,
+			);
+			path = Resoce;
+			sourceTree = "<group>";
+		};
+		078579CC1D647E7500B12F4C /* View */ = {
+			isa = PBXGroup;
+			children = (
+				078579CD1D647E7500B12F4C /* YJSettingTableViewCell.h */,
+				078579CE1D647E7500B12F4C /* YJSettingTableViewCell.m */,
+			);
+			path = View;
 			sourceTree = "<group>";
 		};
 		07B111561D5B2272004C414A = {
@@ -122,7 +154,7 @@
 		07B111611D5B2272004C414A /* YJSettingTableViewDemo */ = {
 			isa = PBXGroup;
 			children = (
-				076AECB11D5DD9F600A6114F /* YJSettingTableView */,
+				078579BD1D647E7500B12F4C /* YJSettingTableView */,
 				07B111651D5B2272004C414A /* AppDelegate.h */,
 				07B111661D5B2272004C414A /* AppDelegate.m */,
 				076537A71D5CBBFE00201A44 /* YJMainTableViewController.h */,
@@ -206,7 +238,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				07B111721D5B2272004C414A /* LaunchScreen.storyboard in Resources */,
-				076AECC41D5DD9F600A6114F /* YJSettingTableView.bundle in Resources */,
+				078579D51D647E7500B12F4C /* YJSettingTableView.bundle in Resources */,
 				07001A4A1D5D9E2200DAC74C /* MBProgressHUD.bundle in Resources */,
 				07B1116F1D5B2272004C414A /* Assets.xcassets in Resources */,
 			);
@@ -219,15 +251,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				076AECC51D5DD9F600A6114F /* YJSettingTableViewCell.m in Sources */,
+				078579D31D647E7500B12F4C /* YJSettingItem.m in Sources */,
+				078579D41D647E7500B12F4C /* YJSettingSwitchItem.m in Sources */,
 				076537A91D5CBBFE00201A44 /* YJMainTableViewController.m in Sources */,
-				076AECC21D5DD9F600A6114F /* YJSettingItem.m in Sources */,
-				076AECC11D5DD9F600A6114F /* YJSettingGroup.m in Sources */,
+				078579D61D647E7500B12F4C /* YJSettingTableViewCell.m in Sources */,
+				078579D01D647E7500B12F4C /* YJSettingTableViewController.m in Sources */,
+				078579D11D647E7500B12F4C /* YJSettingArrowItem.m in Sources */,
+				078579D21D647E7500B12F4C /* YJSettingGroup.m in Sources */,
 				07B111671D5B2272004C414A /* AppDelegate.m in Sources */,
-				076AECC61D5DD9F600A6114F /* YJSettingTableViewController.m in Sources */,
-				076AECC31D5DD9F600A6114F /* YJSettingSwitchItem.m in Sources */,
 				07001A491D5D9E2200DAC74C /* MBProgressHUD+YJ.m in Sources */,
-				076AECC01D5DD9F600A6114F /* YJSettingArrowItem.m in Sources */,
 				07B111641D5B2272004C414A /* main.m in Sources */,
 				07001A4B1D5D9E2200DAC74C /* MBProgressHUD.m in Sources */,
 				07C1AA841D5D885100A52AFE /* YJScoreViewController.m in Sources */,
