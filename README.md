@@ -1,5 +1,6 @@
 # YJSettingTableView
-
+## 示例效果
+![coderYJ](1.gif)<br/>
 ##pod 'YJSettingTableView' v1.0.0
 ```
 $ gem install cocoapods
@@ -94,7 +95,5 @@ end
     [self addGroupWithItems:@[item0, item1, item2, item3]];
 }
 ```
-## 示例效果
-![coderYJ](1.gif)<br/>
 微信公众号coderYJ [微博coderYJ](http://weibo.com/u/5348162268) [简书coderYJ](http://www.jianshu.com/users/ce8eba0dbfb6/latest_articles)<br />
 持续更新使用的干货
